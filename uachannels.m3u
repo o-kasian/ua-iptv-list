@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-name="1+1" tvg-logo="https://github.com/o-kasian/ua-iptv-list/raw/master/images/one_plus_one.png", 1+1 Official
 https://stream2g05-f23.ovva.tv/189931/smil:189931.smil/chunklist_b1696000.m3u8
+#EXTINF:0 tvg-name="TNT" tvg-logo="images/tnt.png", ТНТ
+http://37.48.89.18/video/-HYhr1FJs7j5lvbysVFMTg/11/playlist.m3u8
